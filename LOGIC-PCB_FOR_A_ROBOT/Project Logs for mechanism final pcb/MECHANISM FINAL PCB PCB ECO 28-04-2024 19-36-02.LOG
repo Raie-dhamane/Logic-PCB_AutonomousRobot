@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=33 Pin=LS 2-2
+Removed Pin From Net: NetName=33 Pin=LS 3-2
+Removed Pin From Net: NetName=33 Pin=LS 4-2
+Add Component: Footprint Not Found 2-PIN-CONNECTOR
+Add Component: Footprint Not Found 2-PIN-CONNECTOR
+Add Pin To Net: Unknown Pin: Pin 12 V 1-1
+Add Pin To Net: Unknown Pin: Pin 12 V 1-2
+Add Pin To Net: Unknown Pin: Pin 12 V 2-1
+Add Pin To Net: Unknown Pin: Pin 12 V 2-2
+Added Pin To Net: NetName=40 Pin=LS 1-2
+Added Pin To Net: NetName=42 Pin=LS 2-2
+Added Pin To Net: NetName=44 Pin=LS 3-2
+Added Pin To Net: NetName=46 Pin=LS 4-2
+Add Class Member: Failed to add class member : Component 12 V 1 5V
+Add Class Member: Failed to add class member : Component 12 V 2 5V
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4

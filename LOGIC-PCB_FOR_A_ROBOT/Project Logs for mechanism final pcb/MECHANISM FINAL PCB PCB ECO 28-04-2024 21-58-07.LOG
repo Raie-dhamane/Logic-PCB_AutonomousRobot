@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=A0 Pin=mega1-AD0
+Added Pin To Net: NetName=A1 Pin=mega1-AD1
+Added Pin To Net: NetName=A2 Pin=mega1-AD2
+Added Pin To Net: NetName=A3 Pin=mega1-AD3
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4

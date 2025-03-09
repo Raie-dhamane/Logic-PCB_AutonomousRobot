@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=40 Pin=LS 1-2
+Removed Pin From Net: NetName=42 Pin=LS 2-2
+Removed Pin From Net: NetName=44 Pin=LS 3-2
+Removed Pin From Net: NetName=46 Pin=LS 4-2
+Added Pin To Net: NetName=41 Pin=LS 1-2
+Added Pin To Net: NetName=43 Pin=LS 2-2
+Added Pin To Net: NetName=45 Pin=LS 3-2
+Added Pin To Net: NetName=45 Pin=mega1-45
+Added Net: Name=45
+Added Pin To Net: NetName=47 Pin=LS 4-2
+Added Pin To Net: NetName=47 Pin=mega1-47
+Added Net: Name=47
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4

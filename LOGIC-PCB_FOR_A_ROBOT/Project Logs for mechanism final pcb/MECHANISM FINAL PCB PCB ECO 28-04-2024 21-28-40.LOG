@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+5 Pin=ODESC-2
+Removed Pin From Net: NetName=15(RX) Pin=ODESC-3
+Removed Pin From Net: NetName=14(TX) Pin=ODESC-4
+Added Pin To Net: NetName=15(RX) Pin=ODESC-2
+Added Pin To Net: NetName=14(TX) Pin=ODESC-3
+Added Pin To Net: NetName=+5 Pin=ODESC-4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4

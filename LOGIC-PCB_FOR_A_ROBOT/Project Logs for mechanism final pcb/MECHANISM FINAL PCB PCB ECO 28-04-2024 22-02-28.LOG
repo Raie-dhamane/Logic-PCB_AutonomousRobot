@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=22 Pin=IR 1-2
+Added Pin To Net: NetName=24 Pin=IR 2-2
+Added Pin To Net: NetName=26 Pin=IR 3-2
+Added Pin To Net: NetName=28 Pin=IR 4-2
+Added Pin To Net: NetName=30 Pin=IR 5-2
+Added Pin To Net: NetName=32 Pin=IR 6-2
+Added Pin To Net: NetName=34 Pin=IR 7-2
+Added Pin To Net: NetName=38 Pin=IR 9-2
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
+Added Member To Class: ClassName=MECHANISM FINAL PCB Member=Component LED Header 4
